@@ -1,0 +1,10 @@
+﻿body {
+    background-color: #f8f9fa;
+}
+
+#notification {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 1000;
+}
